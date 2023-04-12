@@ -1,4 +1,4 @@
-![image title](https://rushter.com/counter.svg)
+<-- ![image title](https://rushter.com/counter.svg) -->
 
 ### Hi, welcome to my Github profile.
 
